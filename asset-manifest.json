@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/XorOgame/static/css/main.ead9236e.css",
+    "main.js": "/XorOgame/static/js/main.64bc3023.js",
+    "index.html": "/XorOgame/index.html",
+    "main.ead9236e.css.map": "/XorOgame/static/css/main.ead9236e.css.map",
+    "main.64bc3023.js.map": "/XorOgame/static/js/main.64bc3023.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ead9236e.css",
+    "static/js/main.64bc3023.js"
+  ]
+}
